@@ -1,0 +1,19 @@
+.card {
+	background-color: rgba(16, 233, 240, 0.472);
+	color: rgb(12, 12, 12);
+	padding: 20px;
+    margin: 20px;
+	text-align: center;
+	border-radius: 50px;
+}
+
+.title {
+	font-weight: lighter;
+}
+
+.ready-true {
+	background: rgba(0, 128, 0, 0.555);
+}
+.ready-false {
+	background: rgba(255, 166, 0, 0.54);
+}
